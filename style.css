@@ -1,0 +1,100 @@
+.home-page-child {
+   position: absolute;
+   display: flex;
+   background-color: #000;
+   width: 1467px;
+   height: 1603px;
+   }
+.home-page-item {
+   position: absolute;
+   top: 0px;
+   left: 0px;
+   background: linear-gradient(180deg, #3f3f3f, #000);
+   width: 1463px;
+   height: 79px;
+}
+.home-page-inner {
+   position: absolute;
+   top: 164px;
+   left: calc(50% - 720px);
+   background: linear-gradient(0deg, #000, #3f3f3f 50%, #000);
+   width: 1463px;
+   height: 696px;
+}
+.pgina-principal {
+   position: absolute;
+   top: 20px;
+   left: 232px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   width: 242px;
+   height: 39px;
+}
+.trabalhos {
+   position: absolute;
+   top: 20px;
+   left: 598px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   width: 242px;
+   height: 39px;
+   cursor: pointer;
+}
+.contato {
+   position: absolute;
+   top: 20px;
+   left: 965px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   width: 242px;
+   height: 39px;
+   cursor: pointer;
+}
+.seja-bem-vindo {
+   position: absolute;
+   top: 390px;
+   left: 98px;
+   font-size: 48px;
+   display: flex;
+   font-family: Almarai;
+   text-align: left;
+   align-items: center;
+   width: 399px;
+   height: 87px;
+}
+.profissional-com-4 {
+   position: absolute;
+   top: 499px;
+   left: 98px;
+   font-size: 24px;
+   font-family: Almarai;
+   text-align: left;
+   display: flex;
+   align-items: center;
+   width: 752px;
+   height: 135px;
+}
+.icon {
+   position: absolute;
+   top: 295px;
+   left: 929px;
+   border-radius: 400px;
+   width: 448px;
+   height: 435px;
+   object-fit: cover;
+}
+.home-page {
+   width: 100%;
+   position: relative;
+   background-color: #fff;
+   height: 1024px;
+   overflow: hidden;
+   text-align: center;
+   font-size: 15px;
+   color: #fff;
+   font-family: Inter;
+}
+
