@@ -1,0 +1,211 @@
+    .contato-child {
+    position: absolute;
+    display: flex;
+    background-color: #000;
+    width: 1467px;
+    height: 1603px;
+    }
+  .contato-item {
+        position: absolute;
+        top: 0px;
+        left: calc(50% - 720px);
+        background: linear-gradient(180deg, #3f3f3f, #000);
+        width: 1440px;
+        height: 79px;
+  }
+  .pgina-principal {
+        position: absolute;
+        top: 20px;
+        left: 233px;
+        font-size: 15px;
+        font-family: Inter;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 242px;
+        height: 39px;
+        cursor: pointer;
+  }
+  .trabalhos {
+        position: absolute;
+        top: 20px;
+        left: 599px;
+        font-size: 15px;
+        font-family: Inter;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 242px;
+        height: 39px;
+        cursor: pointer;
+  }
+  .contato1 {
+        position: absolute;
+        top: 20px;
+        left: 966px;
+        font-size: 15px;
+        font-family: Inter;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 242px;
+        height: 39px;
+  }
+  .entre-em-contato {
+        position: absolute;
+        top: 118px;
+        left: 166px;
+        font-size: 48px;
+        display: flex;
+        align-items: center;
+        width: 589px;
+        height: 92px;
+  }
+  .me-siga-nas {
+        position: absolute;
+        top: 696px;
+        left: 166px;
+        font-size: 32px;
+        display: flex;
+        align-items: center;
+        width: 589px;
+        height: 92px;
+  }
+  .nome {
+        position: absolute;
+        top: 269px;
+        left: 166px;
+        font-weight: 300;
+        display: flex;
+        align-items: center;
+        width: 105px;
+        height: 38px;
+  }
+  .telefone {
+        position: absolute;
+        top: 366px;
+        left: 166px;
+        font-weight: 300;
+        display: flex;
+        align-items: center;
+        width: 105px;
+        height: 38px;
+  }
+  .e-mail {
+        position: absolute;
+        top: 463px;
+        left: 166px;
+        font-weight: 300;
+        display: flex;
+        align-items: center;
+        width: 105px;
+        height: 38px;
+  }
+  .mensagem {
+        position: absolute;
+        top: 269px;
+        left: 443px;
+        font-weight: 300;
+        display: flex;
+        align-items: center;
+        width: 134px;
+        height: 38px;
+  }
+  .contato-inner {
+        position: absolute;
+        top: 313px;
+        left: 166px;
+        border-radius: 7px;
+        background-color: #d9d9d9;
+        width: 216px;
+        height: 32px;
+  }
+  .rectangle-div {
+        position: absolute;
+        top: 410px;
+        left: 166px;
+        border-radius: 7px;
+        background-color: #d9d9d9;
+        width: 216px;
+        height: 32px;
+  }
+  .contato-child1 {
+        position: absolute;
+        top: 507px;
+        left: 166px;
+        border-radius: 7px;
+        background-color: #d9d9d9;
+        width: 216px;
+        height: 32px;
+  }
+  .contato-child2 {
+        position: absolute;
+        top: 313px;
+        left: 443px;
+        border-radius: 7px;
+        background-color: #d9d9d9;
+        width: 451px;
+        height: 226px;
+  }
+  .group-child {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        border-radius: 7px;
+        background-color: #2679ff;
+        width: 120px;
+        height: 47px;
+  }
+  .enviar {
+        position: absolute;
+        top: 5px;
+        left: 8px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 104px;
+        height: 34px;
+  }
+  .rectangle-parent {
+        position: absolute;
+        top: 598px;
+        left: 166px;
+        width: 120px;
+        height: 47px;
+        text-align: center;
+        font-size: 22px;
+  }
+  .image-1-icon {
+        position: absolute;
+        top: 794px;
+        left: 155px;
+        width: 99px;
+        height: 99px;
+        object-fit: cover;
+        cursor: pointer;
+  }
+  .image-2-icon {
+        position: absolute;
+        top: 794px;
+        left: 271px;
+        width: 99px;
+        height: 99px;
+        object-fit: cover;
+        cursor: pointer;
+  }
+  .contato {
+        width: 100%;
+        position: relative;
+        background-color: #fff;
+        height: 1024px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 24px;
+        color: #fff;
+        font-family: Almarai;
+  }
+  
+  
