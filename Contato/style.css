@@ -159,16 +159,6 @@
         width: 120px;
         height: 47px;
   }
-  .enviar {
-        position: absolute;
-        top: 5px;
-        left: 8px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        width: 104px;
-        height: 34px;
-  }
   .rectangle-parent {
         position: absolute;
         top: 598px;
