@@ -1,0 +1,120 @@
+.trabalhos-child {
+    position: absolute;
+    display: flex;
+    background-color: #000;
+    width: 1467px;
+    height: 1603px;
+    }
+.trabalhos-item {
+        position: absolute;
+        top: 0px;
+        left: -1px;
+        background: linear-gradient(180deg, #3f3f3f, #000);
+        width: 1440px;
+        height: 79px;
+  }
+.pgina-principal {
+        position: absolute;
+        top: 20px;
+        left: 232px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 242px;
+        height: 39px;
+        cursor: pointer;
+  }
+  .trabalhos1 {
+        position: absolute;
+        top: 20px;
+        left: 598px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 242px;
+        height: 39px;
+  }
+  .contato {
+        position: absolute;
+        top: 20px;
+        left: 965px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 242px;
+        height: 39px;
+        cursor: pointer;
+  }
+  .mask-group-icon {
+        position: absolute;
+        top: 266px;
+        left: 165px;
+        width: 302px;
+        height: 209px;
+        object-fit: cover;
+  }
+  .mask-group-icon1 {
+        position: absolute;
+        top: 572px;
+        left: 165px;
+        width: 302px;
+        height: 209px;
+        object-fit: contain;
+  }
+  .mask-group-icon2 {
+        position: absolute;
+        top: 266px;
+        left: 568px;
+        width: 302px;
+        height: 209px;
+        object-fit: cover;
+  }
+  .mask-group-icon3 {
+        position: absolute;
+        top: 572px;
+        left: 568px;
+        width: 302px;
+        height: 209px;
+        object-fit: cover;
+  }
+  .mask-group-icon4 {
+        position: absolute;
+        top: 266px;
+        left: 972px;
+        width: 302px;
+        height: 209px;
+        object-fit: cover;
+  }
+  .mask-group-icon5 {
+        position: absolute;
+        top: 572px;
+        left: 972px;
+        width: 302px;
+        height: 209px;
+        object-fit: cover;
+  }
+  .trabalhos2 {
+        position: absolute;
+        top: 118px;
+        left: 165px;
+        font-size: 48px;
+        display: flex;
+        font-family: Almarai;
+        text-align: left;
+        align-items: center;
+        width: 370px;
+        height: 92px;
+  }
+  .trabalhos {
+        width: 100%;
+        position: relative;
+        background-color: #fff;
+        height: 1024px;
+        overflow: hidden;
+        text-align: center;
+        font-size: 15px;
+        color: #fff;
+        font-family: Inter;
+  }
+  
+  
