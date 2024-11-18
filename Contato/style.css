@@ -33,12 +33,13 @@
   .trabalhos {
       position: absolute;
       top: 20px;
-      left: 232px;
+      left: 598px;
       display: flex;
       align-items: center;
       justify-content: center;
       width: 242px;
       height: 39px;
+      cursor: pointer;
       font-family: "Inter-Regular", Helvetica;
       font-weight: 400;
       color: #ffffff;
@@ -50,12 +51,13 @@
   .contato1 {
       position: absolute;
       top: 20px;
-      left: 232px;
+      left: 965px;
       display: flex;
       align-items: center;
       justify-content: center;
       width: 242px;
       height: 39px;
+      cursor: pointer;
       font-family: "Inter-Regular", Helvetica;
       font-weight: 400;
       color: #ffffff;
