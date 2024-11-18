@@ -158,6 +158,13 @@
         background-color: #2679ff;
         width: 120px;
         height: 47px;
+        font-family: "Almarai-Bold", Helvetica;
+        font-weight: 700;
+        color: #ffffff;
+        font-size: 22px;
+        text-align: center;
+        letter-spacing: 0;
+        line-height: normal
   }
   .rectangle-parent {
         position: absolute;
