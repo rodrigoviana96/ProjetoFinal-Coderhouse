@@ -14,57 +14,46 @@
         height: 79px;
   }
   .pgina-principal {
-      position: absolute;
-      top: 20px;
-      left: 232px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
+      position: fixed;
       width: 242px;
       height: 39px;
+      top: 0;
+      left: 0;
       font-family: "Inter-Regular", Helvetica;
       font-weight: 400;
       color: #ffffff;
       font-size: 15px;
       text-align: center;
       letter-spacing: 0;
-      line-height: normal
+      line-height: normal;
   }
   .trabalhos {
-      position: absolute;
-      top: 20px;
-      left: 598px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
+      position: fixed;
       width: 242px;
       height: 39px;
-      cursor: pointer;
+      top: 0;
+      left: 0;
       font-family: "Inter-Regular", Helvetica;
       font-weight: 400;
       color: #ffffff;
       font-size: 15px;
       text-align: center;
       letter-spacing: 0;
-      line-height: normal
+      line-height: normal;
   }
   .contato1 {
-      position: absolute;
-      top: 20px;
-      left: 965px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
+      position: fixed;
       width: 242px;
       height: 39px;
-      cursor: pointer;
+      top: 0;
+      left: 0;
       font-family: "Inter-Regular", Helvetica;
       font-weight: 400;
       color: #ffffff;
       font-size: 15px;
       text-align: center;
       letter-spacing: 0;
-      line-height: normal
+      line-height: normal;
   }
   .entre-em-contato {
         position: absolute;
