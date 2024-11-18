@@ -30,6 +30,13 @@
    justify-content: center;
    width: 242px;
    height: 39px;
+   font-family: "Inter-Regular";
+   font-weight: 400;
+   color: #ffffff;
+   font-size: 15px;
+   text-align: center;
+   letter-spacing: 0;
+   line-height: normal
 }
 .trabalhos {
    position: absolute;
@@ -41,6 +48,13 @@
    width: 242px;
    height: 39px;
    cursor: pointer;
+   font-family: "Inter-Regular";
+   font-weight: 400;
+   color: #ffffff;
+   font-size: 15px;
+   text-align: center;
+   letter-spacing: 0;
+   line-height: normal
 }
 .contato {
    position: absolute;
@@ -52,6 +66,13 @@
    width: 242px;
    height: 39px;
    cursor: pointer;
+   font-family: "Inter-Regular";
+   font-weight: 400;
+   color: #ffffff;
+   font-size: 15px;
+   text-align: center;
+   letter-spacing: 0;
+   line-height: normal
 }
 .seja-bem-vindo {
    position: absolute;
