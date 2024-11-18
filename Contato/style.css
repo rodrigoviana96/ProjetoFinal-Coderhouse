@@ -17,8 +17,6 @@
         position: absolute;
         top: 20px;
         left: 233px;
-        font-size: 15px;
-        font-family: Inter;
         text-align: center;
         display: flex;
         align-items: center;
@@ -26,13 +24,18 @@
         width: 242px;
         height: 39px;
         cursor: pointer;
+        font-family: "Inter-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 15px;
+        text-align: center;
+        letter-spacing: 0;
+        line-height: normal
   }
   .trabalhos {
         position: absolute;
         top: 20px;
         left: 599px;
-        font-size: 15px;
-        font-family: Inter;
         text-align: center;
         display: flex;
         align-items: center;
@@ -40,19 +43,31 @@
         width: 242px;
         height: 39px;
         cursor: pointer;
+        font-family: "Inter-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 15px;
+        text-align: center;
+        letter-spacing: 0;
+        line-height: normal
   }
   .contato1 {
         position: absolute;
         top: 20px;
         left: 966px;
-        font-size: 15px;
-        font-family: Inter;
         text-align: center;
         display: flex;
         align-items: center;
         justify-content: center;
         width: 242px;
         height: 39px;
+        font-family: "Inter-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 15px;
+        text-align: center;
+        letter-spacing: 0;
+        line-height: normal
   }
   .entre-em-contato {
         position: absolute;
